@@ -9,7 +9,7 @@ This repository contains the code and resources for the "Teacher Cascade Evaluat
 git clone https://github.com/SVIL2014/teacher_nn_cascade_evaluation.git
 
 ## Usage
-open the cascade_model.ipynb file, and run all the cells
+open the dl_cascade_***.py file, and run this file 
 
 ## Dataset
 To be more specific, the information gathered from the university is systematically saved in a file named teacher_info***.csv, ensuring its easy access and management for further reference and analysis.
